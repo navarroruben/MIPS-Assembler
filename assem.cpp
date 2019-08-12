@@ -1,11 +1,7 @@
  /*******************************************************
- *
  * Name: Ruben Navarro
- * Class: CDA 3101
- * Assignment: Asg 2 (an assembler of a subset of the MIPS 
- *                    assembly language
+ * an assembler of a subset of the MIPS assembly language
  * Compile:    "gcc -g assem.c"
- *
  ********************************************************/
 
 #include <cstdio>
